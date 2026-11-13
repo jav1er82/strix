@@ -1,0 +1,45 @@
+tests/test_repo_preload.py
+  s_dd7ccf9666efd6::t_4330aa1972470b 1-95
+strix/interface/scan_setup.py
+  s_dd7ccf9666efd6::t_72910b86f27318 15,134-139,186-192
+pyproject.toml
+  s_ba0f95da34f8ce::t_c0ec712802338d 235-245
+k8s/artifact_fetch.py
+  s_ba0f95da34f8ce::t_21a335f4bd651f 1-63
+k8s/kafka_orchestrator.py
+  s_dd7ccf9666efd6::t_dfe9af736c651a 1-657
+k8s/configmap-target.example.yaml
+  s_dd7ccf9666efd6::t_215b120397aecc 1-8
+containers/Dockerfile
+  s_dd7ccf9666efd6::t_567877ae44ab43 35,39-45,69-80,83-85,91-93,96-98,101,213-239,300-324,337-360,364
+k8s/job.yaml
+  s_dd7ccf9666efd6::t_b1ddc1439689fd 1-172
+tests/test_artifact_fetch.py
+  s_dd7ccf9666efd6::t_d2c0602ae3717e 1-122
+tests/test_artifact_e2e.py
+  s_dd7ccf9666efd6::t_bd496c3cb187f5 1-88
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1be3855fe6c5d2cc9a370573987778532a51800b",
+  "prompts": {},
+  "sessions": {
+    "s_ba0f95da34f8ce": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "d8f69eeb-2c10-435e-a3d7-6a5355e8c049",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_dd7ccf9666efd6": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "0acd80f0-bf50-4ec0-a05b-e0c1fb11b4ff",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    }
+  }
+}
