@@ -1,0 +1,191 @@
+demo/run-builder.sh
+  s_910fe1000dd970::t_6a8e580c111bd5 1-23
+frontal/app/console.html
+  s_910fe1000dd970::t_2b6367fd1cc995 1-1652
+frontal/app/instruction_builder.py
+  s_910fe1000dd970::t_7986cb789e95e9 1-364
+demo/.gitignore
+  s_50b5a2574c9df5::t_6daf8c56d88164 1-4
+demo/audit/strix_local_boot.py
+  s_44346e1c9a0ae7::t_8f0955852f26fc 1-11
+demo/docker-compose.audit.yml
+  s_2c5eefba85087c::t_088ff6ba6c3321 1-81
+demo/fake_strix.sh
+  s_50b5a2574c9df5::t_7d3363e7765d74 1-14
+demo/run-audit-local.sh
+  s_2c5eefba85087c::t_273cc4507961b6 1-92
+demo/run-frontal.sh
+  s_50b5a2574c9df5::t_ff0a1161e7c36b 1-7
+demo/run-launcher.sh
+  s_50b5a2574c9df5::t_57ffc4976c897f 1-7
+demo/run-worker.sh
+  s_50b5a2574c9df5::t_7d726e1c75d1c7 1-6
+demo/smoke.sh
+  s_50b5a2574c9df5::t_6ee7ba21362b35 1-41
+frontal/.dockerignore
+  s_50b5a2574c9df5::t_c9e1097a00c33d 1-8
+frontal/Dockerfile.frontend
+  s_2c5eefba85087c::t_f8176d60a658f3 1-24
+frontal/VISOR_STRIX.md
+  s_3c50e28d6db067::t_78e7dadf1413e1 1-250
+frontal/app/audit.py
+  s_081175e7ecb392::t_338832d4ac66ce 1-436
+frontal/app/config.py
+  s_2c5eefba85087c::t_67725d76fb4bdf 1-104
+frontal/app/db.py
+  s_44346e1c9a0ae7::t_00378a58d2ee90 1-47
+frontal/app/ingest.py
+  s_44346e1c9a0ae7::t_267a211a5418fb 1-121
+frontal/app/messaging.py
+  s_4eb8d89a8e2b33::t_73292bc74446a9 1-78
+frontal/app/models.py
+  s_081175e7ecb392::t_3fc56d72ec494c 1-192
+frontal/app/retest.py
+  s_081175e7ecb392::t_abf28486fcfaeb 1-408
+frontal/app/runfiles.py
+  s_44346e1c9a0ae7::t_2ec8602bcdd6fa 1-48
+frontal/app/templates.py
+  s_44346e1c9a0ae7::t_5189f3daa67f48 1-110
+frontal/frontend/default.conf.template
+  s_2c5eefba85087c::t_fe6ef07e0e91e6 1-60
+frontal/launcher.py
+  s_4eb8d89a8e2b33::t_ff1bf03d84bf05 1-27
+frontal/requirements.txt
+  s_2c5eefba85087c::t_22873d64f45c2f 1-8
+frontal/runner.py
+  s_4eb8d89a8e2b33::t_28ccb50e69c84c 1-279
+frontal/schema/README.md
+  s_081175e7ecb392::t_ff2dd8f9c06dfc 1-75
+frontal/schema/generate_postgres_sql.py
+  s_2c5eefba85087c::t_3ffb66e2ad905f 1-89
+frontal/schema/postgres.sql
+  s_081175e7ecb392::t_491ecd32d7ab0a 1-125
+frontal/worker.py
+  s_4eb8d89a8e2b33::t_9f621cbc9e5580 1-22
+tests/test_frontal_audit.py
+  s_081175e7ecb392::t_c7e4878eab544f 1-785
+demo/Dockerfile.mc
+  s_910fe1000dd970::t_b9f58fef61c9fd 1-12
+demo/Dockerfile.minio
+  s_910fe1000dd970::t_03a03f0b0f69a7 1-14
+demo/README.md
+  s_910fe1000dd970::t_c7fdbbfb0dc174 1-81
+demo/create-topics.sh
+  s_910fe1000dd970::t_9d9e918f5e8b2e 1-14
+demo/docker-compose.dev.yml
+  s_910fe1000dd970::t_452279d7b4c2b4 1-95
+demo/env.sh
+  s_910fe1000dd970::t_74d5952d172282 1-46
+demo/real_strix.sh
+  s_910fe1000dd970::t_a35906fde52414 1-24
+demo/run-keda-sim.sh
+  s_910fe1000dd970::t_28337d9dbe1acd 1-112
+frontal/Dockerfile
+  s_910fe1000dd970::t_502036a9ae5e12 1-63
+frontal/Dockerfile.dockerignore
+  s_910fe1000dd970::t_194df829f41337 1-13
+frontal/Dockerfile.frontend.dockerignore
+  s_910fe1000dd970::t_e5ae18812d582d 1-3
+frontal/README.md
+  s_910fe1000dd970::t_24c107749d4610 1-162
+frontal/app/artifacts.py
+  s_910fe1000dd970::t_e4533a5119b7b2 1-201
+frontal/app/consumer.py
+  s_910fe1000dd970::t_2428968e83510c 1-123
+frontal/app/fingerprint.py
+  s_910fe1000dd970::t_924689c1c2699d 1-54
+frontal/app/instructions/api-exp.md
+  s_910fe1000dd970::t_bbc4c21ab7cffd 1-334
+frontal/app/instructions/api.md
+  s_910fe1000dd970::t_ac98329284bc95 1-119
+frontal/app/instructions/auth-exp.md
+  s_910fe1000dd970::t_3bd7c40265bbc3 1-313
+frontal/app/instructions/authorization.md
+  s_910fe1000dd970::t_d5759a4a069c2a 1-142
+frontal/app/instructions/catalogs.json
+  s_910fe1000dd970::t_7a7e991f6b5c20 1-633
+frontal/app/instructions/fields.json
+  s_910fe1000dd970::t_f75d5bb9e8fbb2 1-166
+frontal/app/instructions/web-exp.md
+  s_910fe1000dd970::t_219cb7f1ce4faa 1-558
+frontal/app/instructions/web.md
+  s_910fe1000dd970::t_b87688ba3db878 1-87
+frontal/app/launcher.py
+  s_910fe1000dd970::t_9a9f82a0fbcd87 1-66
+frontal/app/main.py
+  s_910fe1000dd970::t_db3745fd2d444c 1-722
+frontal/app/scan_exec.py
+  s_910fe1000dd970::t_be581a4a6e416b 1-134
+frontal/app/viewer_api.py
+  s_910fe1000dd970::t_7b47efa6d9ff34 1-212
+frontal/ruff.toml
+  s_910fe1000dd970::t_e82c4301f44e9a 1-11
+frontal/schema/mongo-init.js
+  s_910fe1000dd970::t_cd63a5d50ecd6c 1-125
+tests/test_instruction_builder.py
+  s_910fe1000dd970::t_7b7a7cc87eb7b8 1-389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "e3bd00ec868d91cd725132133c81eda18484dcaf",
+  "prompts": {},
+  "sessions": {
+    "s_081175e7ecb392": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "5da6bfab-abea-4362-a3e9-1c9cac6a5a9d",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_2c5eefba85087c": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e44e03e0-d912-4bd0-a887-b806141f27d5",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_3c50e28d6db067": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f35f1505-b6ee-4246-8542-9b59ac66ae6f",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_44346e1c9a0ae7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "ebbd37c8-18da-4c05-9deb-d17fd29a916f",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_4eb8d89a8e2b33": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "638195b2-8efe-4246-a33e-3cc16862d3d9",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_50b5a2574c9df5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "430e7dd4-7935-401a-994e-48296b34f0ea",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    },
+    "s_910fe1000dd970": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "8cee82b2-cb3f-4917-935c-6afa4692c3ae",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    }
+  }
+}
