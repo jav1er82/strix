@@ -1,0 +1,143 @@
+demo/run-builder.sh
+  s_910fe1000dd970::t_138ef33effb35b 1-23
+frontal/app/console.html
+  s_910fe1000dd970::t_cebe8488da2f0b 1-1652
+frontal/app/instruction_builder.py
+  s_910fe1000dd970::t_b9b4e91131aded 1-364
+demo/.gitignore
+  s_910fe1000dd970::t_1e8cbae5395ec2 1-4
+demo/Dockerfile.mc
+  s_910fe1000dd970::t_35c6e86f7b62d0 1-12
+demo/Dockerfile.minio
+  s_910fe1000dd970::t_4531ea4bf0bba4 1-14
+demo/README.md
+  s_910fe1000dd970::t_8af7aa0556ee11 1-81
+demo/audit/strix_local_boot.py
+  s_910fe1000dd970::t_549493195442d5 1-11
+demo/create-topics.sh
+  s_910fe1000dd970::t_24fe5e6d7963f8 1-14
+demo/docker-compose.audit.yml
+  s_910fe1000dd970::t_6e8f628a6989c8 1-81
+demo/docker-compose.dev.yml
+  s_910fe1000dd970::t_42223dafa9bff2 1-95
+demo/env.sh
+  s_910fe1000dd970::t_b1afabf36a9203 1-46
+demo/fake_strix.sh
+  s_910fe1000dd970::t_b4c448912d60dd 1-14
+demo/real_strix.sh
+  s_910fe1000dd970::t_baba5422b63133 1-24
+demo/run-audit-local.sh
+  s_910fe1000dd970::t_f8dea34c513572 1-92
+demo/run-frontal.sh
+  s_910fe1000dd970::t_9723fe2cf2825d 1-7
+demo/run-keda-sim.sh
+  s_910fe1000dd970::t_6e811bc67dd191 1-112
+demo/run-launcher.sh
+  s_910fe1000dd970::t_2aa3059d0945a9 1-7
+demo/run-worker.sh
+  s_910fe1000dd970::t_253d3dfd9663c4 1-6
+demo/smoke.sh
+  s_910fe1000dd970::t_541957d499a262 1-41
+frontal/.dockerignore
+  s_910fe1000dd970::t_f9a1381b4a3195 1-8
+frontal/Dockerfile
+  s_910fe1000dd970::t_ad6d5a909fdcbf 1-63
+frontal/Dockerfile.dockerignore
+  s_910fe1000dd970::t_28230e0a4116a0 1-13
+frontal/Dockerfile.frontend
+  s_910fe1000dd970::t_e18261e21800c9 1-24
+frontal/Dockerfile.frontend.dockerignore
+  s_910fe1000dd970::t_079e847bf9dd30 1-3
+frontal/README.md
+  s_910fe1000dd970::t_892bd38e600e49 1-162
+frontal/VISOR_STRIX.md
+  s_910fe1000dd970::t_2d871bc5414af2 1-250
+frontal/app/artifacts.py
+  s_910fe1000dd970::t_a5ba0a6cec3cbd 1-201
+frontal/app/audit.py
+  s_910fe1000dd970::t_51c820e4d8fc0a 1-436
+frontal/app/config.py
+  s_910fe1000dd970::t_98f3959cf58e31 1-104
+frontal/app/consumer.py
+  s_910fe1000dd970::t_e51cacb035b641 1-123
+frontal/app/db.py
+  s_910fe1000dd970::t_216e69f7c8519c 1-47
+frontal/app/fingerprint.py
+  s_910fe1000dd970::t_8397bbb0a5959a 1-54
+frontal/app/ingest.py
+  s_910fe1000dd970::t_66423da3022a10 1-121
+frontal/app/instructions/api-exp.md
+  s_910fe1000dd970::t_36c4d36cabff87 1-334
+frontal/app/instructions/api.md
+  s_910fe1000dd970::t_dff4faa197d442 1-119
+frontal/app/instructions/auth-exp.md
+  s_910fe1000dd970::t_a6759ae8db8864 1-313
+frontal/app/instructions/authorization.md
+  s_910fe1000dd970::t_1d03d2a8b82f02 1-142
+frontal/app/instructions/catalogs.json
+  s_910fe1000dd970::t_5cacc147219ea8 1-633
+frontal/app/instructions/fields.json
+  s_910fe1000dd970::t_aba9410dc9f660 1-166
+frontal/app/instructions/web-exp.md
+  s_910fe1000dd970::t_e8246c9fae04d2 1-558
+frontal/app/instructions/web.md
+  s_910fe1000dd970::t_b0cf23b2a3687c 1-87
+frontal/app/launcher.py
+  s_910fe1000dd970::t_1f37001a0971f3 1-66
+frontal/app/main.py
+  s_910fe1000dd970::t_2e289b606909b1 1-722
+frontal/app/messaging.py
+  s_910fe1000dd970::t_4ca12224b138b0 1-78
+frontal/app/models.py
+  s_910fe1000dd970::t_43834fe3a3197f 1-192
+frontal/app/retest.py
+  s_910fe1000dd970::t_ca137057e447be 1-408
+frontal/app/runfiles.py
+  s_910fe1000dd970::t_6016ea1d1ddc0f 1-48
+frontal/app/scan_exec.py
+  s_910fe1000dd970::t_744cafb3f97ced 1-134
+frontal/app/templates.py
+  s_910fe1000dd970::t_5528257760c107 1-110
+frontal/app/viewer_api.py
+  s_910fe1000dd970::t_40ff005cb92059 1-212
+frontal/frontend/default.conf.template
+  s_910fe1000dd970::t_d427e62470780b 1-60
+frontal/launcher.py
+  s_910fe1000dd970::t_4c1189ff2701ee 1-27
+frontal/requirements.txt
+  s_910fe1000dd970::t_ad03666fab084a 1-8
+frontal/ruff.toml
+  s_910fe1000dd970::t_49b9a754ab0d0e 1-11
+frontal/runner.py
+  s_910fe1000dd970::t_a41603cc351f87 1-279
+frontal/schema/README.md
+  s_910fe1000dd970::t_b6a56b1b60ddb9 1-75
+frontal/schema/generate_postgres_sql.py
+  s_910fe1000dd970::t_462c1468726d3f 1-89
+frontal/schema/mongo-init.js
+  s_910fe1000dd970::t_74b4dfb714b718 1-125
+frontal/schema/postgres.sql
+  s_910fe1000dd970::t_285fab7e2d242e 1-125
+frontal/worker.py
+  s_910fe1000dd970::t_11e3c801293475 1-22
+tests/test_frontal_audit.py
+  s_910fe1000dd970::t_17daf44536ecb6 1-785
+tests/test_instruction_builder.py
+  s_910fe1000dd970::t_19ec5485afa11d 1-389
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2eb17fcc8cf28a41f08e6e473c083f9b06ca7438",
+  "prompts": {},
+  "sessions": {
+    "s_910fe1000dd970": {
+      "agent_id": {
+        "tool": "github-copilot-cli",
+        "id": "8cee82b2-cb3f-4917-935c-6afa4692c3ae",
+        "model": "unknown"
+      },
+      "human_author": "test <test@test.com>"
+    }
+  }
+}
